@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year Computer Science (CSIT) student with a strong passion for Data Science and Data Analytics. Throughout my academic journey, I have worked on several machine learning projects that involve data preprocessing, analysis, and model development. These experiences have helped me build a solid foundation in handling data and extracting meaningful insights. I am now focused on pursuing a career as a Data Analyst, where I can apply my analytical skills and continue learning to solve real-world data-driven problems.
+I recently graduated with a degree in Computer Science, and throughout my academic journey, I’ve developed a deep interest in uncovering stories hidden within data. From preprocessing messy datasets to building machine learning models, I've enjoyed every step of the data pipeline — and I'm excited to take that passion into the professional world.
 
 
 ## 🌐 Socials:
